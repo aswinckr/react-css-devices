@@ -1,6 +1,6 @@
 {
-  "name": "react-mock-devices",
-  "version": "0.1.0",
+  "name": "react-css-devices",
+  "version": "0.1.1",
   "description": "React component for CSS Devices in your project",
   "main": "build/index.js",
   "scripts": {
@@ -46,5 +46,6 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "styled-components": "^2.1.1"
-  }
+  },
+  "dependencies": {}
 }
