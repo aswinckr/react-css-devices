@@ -4,7 +4,7 @@ react-css-devices
 React component for CSS Devices in your project.
 *(NOTE: This project is still work in progress. Marvel Devices are however ready to use. More devices and customization coming soon.)*
 
-![macbook](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Macbook made with CSS")
+![macbook](https://raw.githubusercontent.com/aswinckr/react-css-devices/master/lib/screenshots/macbook.png "Macbook made with CSS")
 
 
 Installation
