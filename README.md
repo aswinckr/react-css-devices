@@ -10,6 +10,7 @@ React component for CSS Devices in your project.
 Installation
 ------------
 `npm install --save react-css-devices`
+
 **Important Note : You need to have a `css-loader` installed. for example with [webpack](https://github.com/webpack-contrib/css-loader)**
 
 Props

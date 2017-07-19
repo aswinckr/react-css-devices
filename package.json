@@ -1,6 +1,6 @@
 {
   "name": "react-css-devices",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "React component for CSS Devices in your project",
   "main": "build/index.js",
   "scripts": {
