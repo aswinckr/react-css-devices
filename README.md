@@ -6,7 +6,7 @@ React component for CSS Devices in your project.
 
 Installation
 ------------
-`npm install --save react-mock-devices`
+`npm install --save react-css-devices`
 
 Props
 -----
