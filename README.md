@@ -10,6 +10,7 @@ React component for CSS Devices in your project.
 Installation
 ------------
 `npm install --save react-css-devices`
+**Important Note : You need to have a `css-loader` installed. for example with [webpack](https://github.com/webpack-contrib/css-loader)**
 
 Props
 -----
@@ -43,9 +44,9 @@ To create a black iphone in landscape you do
 import { MarvelDevices } from 'react-css-devices'
 
 <MarvelDevices deviceName={"iphone6"}
-         color={"black"}
-         orientation={"landscape"}
-         transform={0.5}>
+               color={"black"}
+               orientation={"landscape"}
+               transform={0.5}>
     
     {/*Paste your content here*/}
     <img src={"http://via.placeholder.com/667x375"}/> 
