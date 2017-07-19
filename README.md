@@ -1,8 +1,8 @@
-react-mock-devices
+react-css-devices
 ==================
 
 React component for CSS Devices in your project.
-*(NOTE: This project is still work in progress. Marvel Devices are however ready to use. More devices and customization styling coming soon.)*
+*(NOTE: This project is still work in progress. Marvel Devices are however ready to use. More devices and customization coming soon.)*
 
 Installation
 ------------
