@@ -4,6 +4,9 @@ react-css-devices
 React component for CSS Devices in your project.
 *(NOTE: This project is still work in progress. Marvel Devices are however ready to use. More devices and customization coming soon.)*
 
+![macbook](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Macbook made with CSS")
+
+
 Installation
 ------------
 `npm install --save react-css-devices`
@@ -35,7 +38,7 @@ Size Chart
 
 Examples
 --------
-To create a silver iphone in landscape you do 
+To create a black iphone in landscape you do 
 ```
 import { MarvelDevices } from 'react-css-devices'
 
