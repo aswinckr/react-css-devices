@@ -1,3 +1,5 @@
+
+
 react-css-devices
 ==================
 
@@ -20,7 +22,7 @@ Props
 | `deviceName` *(String)*  | Name of the device | `iphone6`, `iphone6plus`, `iphone5s`, `iphone5c`, `ipad`, `iphone4s`, `nexus5`, `s5`, `htc-one`, `macbook`
 | `color` *(String)*  |   Color ( only supported by `iphone5c` for now ) | `white`, `black`, `red`, `yellow`, `green`, `blue` 
 | `orientation` *(String)*  | Landscape or portrait | `landscape`, `portrait`
-| `transform` *(Integer)*  | Scale the device to your size ( Size chart below ) | default is `1`
+| `transform` *(Number)*  | Scale the device to your size ( Size chart below ) | default is `1`
 
 Size Chart
 ----------
@@ -60,7 +62,4 @@ Credits
 
 Author
 ------
- Any suggestions / improvements / critics are welcome. I'm available on [@aswinckr](https://twitter.com/aswinckr) 
-
-
- 
+ Any suggestions / improvements / critics are welcome. I'm available on [@aswinckr](https://twitter.com/aswinckr)
